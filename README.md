@@ -2,7 +2,7 @@
 
 To work with a large dataset containing NFL player and game statistics in order to conduct machine learning algorithms that will allow for predictions future performance. The data will be cleaned using python and Scikit-learn algorithms will be implemented for machine learning. Data will be further explored and visualized using Tableau to provide a story and explanation of specific key features of player statistics.
 
-#Data Source:
+# Data Source:
 This data was obtained from Kaggle and originally scraped from the web. Data on individual players and games dates to the 1940s. This dataset gives us the opportunity to investigate details about players that can be used to predict their future performance for the purpose of developing a fantasy football team. We’ll be filtering the data for the past few seasons. We’ll break the 
 
 Machine Learning:
@@ -13,7 +13,7 @@ We will explore the following machine learning algorithms to determine the best 
 •	Random Forest
 •	Neural Networks
 
-#Extra Information about the Data
+# Extra Information about the Data
 Dataset Details:
 Player Statistics fields:
 •	Player ID: The assigned ID for the player.
