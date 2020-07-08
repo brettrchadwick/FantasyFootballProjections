@@ -16,8 +16,8 @@ We will explore the following machine learning algorithms to determine the best 
 # Extra Information about the Data
 Dataset Details:
 Player Statistics fields:
-•	Player ID: The assigned ID for the player.
-•	Name: The player's full name.
+*	Player ID: The assigned ID for the player.
+*	Name: The player's full name.
 •	Position: The position the player played abbreviated to two characters. If the player played more than one position, the position field will be a comma-separated list of positions (i.e. "hb,qb").
 •	Height: The height of the player in feet and inches. The data format is -. So 6-5 would be six feet and five inches tall.
 •	Weight: The weight of the player in pounds.
